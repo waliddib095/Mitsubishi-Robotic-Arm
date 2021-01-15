@@ -3,12 +3,13 @@ This respository illustrates the project of programming a Mitsubishi RV-2A robot
 
   ![alt text](https://github.com/waliddib095/Mitsubishi-Robotic-Arm-/blob/main/Images/Screen%20Shot%202021-01-15%20at%205.12.42%20AM.png)
 # Perfromed Functions
-1- Moving forearm to desired XYZ coordinate, where the containers resides.
-2- Using the robot gripper to hold the container and moving arm to packaging point.
-3- Place container in packaging point when the IR sensor detects placement area.
-4- Moving forearm to desired XYZ coordinate, where the container's cap resides.
-5- Moving back to packaging area and rotating the gripper for 90 degrees to screw the cap when sensor detects the container.
-6- Moving the assembeled part to delivery station.
+
+1. Moving forearm to desired XYZ coordinate, where the containers resides.
+2. Using the robot gripper to hold the container and moving arm to packaging point.
+3. Place container in packaging point when the IR sensor detects placement area.
+4. Moving forearm to desired XYZ coordinate, where the container's cap resides.
+5. Moving back to packaging area and rotating the gripper for 90 degrees to screw the cap when sensor detects the container.
+6. Moving the assembeled part to delivery station.
 
   
 # Logic Flow
