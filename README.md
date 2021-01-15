@@ -1,4 +1,4 @@
-# Mitsubishi-Robotic-Arm
+# Mitsubishi Robotic Arm
 This respository illustrates the project of programming a Mitsubishi RV-2A robotic arm, while utilizing components of an integrated robotic station to package certain components together into a final 1-piece component. This report was divided into four parts. In the first part, a flow chart is made and presented to have a general idea of how the robotic arm should function and in which sequence. After that, the locations that the robotic arm should reach during its task operation are taught using the teach-pendant and uploaded to the computer, and then the program is written using a software that is provided with the robot (CIROS STUDIO) in the desired sequence while improving the functionality of the desired actions whenever possible. Lastly, the results are shown and discussed while presenting the sources of difficulties and errors that came up during the process of programing the arm.
 
   ![alt text](https://github.com/waliddib095/Mitsubishi-Robotic-Arm-/blob/main/Images/Screen%20Shot%202021-01-15%20at%205.12.42%20AM.png)
